@@ -1,8 +1,4 @@
 # QuestRescan
-
-## Prerequisite 
-- You have an discord bot
-- Add the discord bot to your server: https://discord.com/api/oauth2/authorize?client_id=980179449662296104&permissions=142400&scope=bot
  
 ## Setting up
 
@@ -30,5 +26,5 @@
 Create a json file to send an embed message. This is the message to inform the users.
 See also: https://discordjs.guide/popular-topics/embeds.html#using-an-embed-object
 
-### Start
-Start the bot with: ``node index.js``
+
+### Start bot
