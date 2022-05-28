@@ -6,6 +6,7 @@
 - Jump into directory
 - Copy config en embed file ``cp config.example.json config.json && cp embed.example.json embed.json``
 - Change config.json and example.json
+- ``npm install``
 
 ### config.json
 
@@ -24,3 +25,6 @@
 
 Create a json file to send an embed message. This is the message to inform the users.
 See also: https://discordjs.guide/popular-topics/embeds.html#using-an-embed-object
+
+
+### Start bot
